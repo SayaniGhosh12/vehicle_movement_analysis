@@ -1,0 +1,14 @@
+tensorflow
+tensorflow-gpu  
+tensorflow-hub
+tensorflow-addons
+tensorflow-model-optimization
+tf_slim
+numpy
+opencv-python
+Pillow
+matplotlib
+scikit-learn
+pandas
+tflite-runtim
+super-gradients
