@@ -35,7 +35,7 @@ College campuses struggle with high traffic volumes and limited parking. Our pro
 
 1. Clone the repository:
    ```bash
-   https://github.com/AlphaX53/IntelUnnatiProject/tree/main
+   https://github.com/SayaniGhosh12/vehicle_movement_analysis.git
    ```
 2. Install dependencies:
    ```bash
